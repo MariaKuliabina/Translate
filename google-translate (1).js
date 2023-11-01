@@ -1,6 +1,6 @@
 /*!***************************************************
  * google-translate.js v1.0.6
- * https://Get-Web.Site/
+ * https://Buart-Lana.com/
  * author: Vitalii P.
  *****************************************************/
 
